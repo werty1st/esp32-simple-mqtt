@@ -68,10 +68,3 @@ setup push button widget:
 setup magnet switch state widget:
 
 <img src="./screens/Screenshot_20190316-033015_MQTT Dash.jpg" width="256">
-
-![screenshot: home view](./screens/Screenshot_20190316-032649_MQTT Dash.jpg)
-![screenshot: adding server](./screens/Screenshot_20190316-032847_MQTT Dash.jpg | width=250)
-
-![screenshot: server widgets](./screens/Screenshot_20190316-032927_MQTT Dash.jpg | width=250)
-![screenshot: setup push button widget](./screens/Screenshot_20190316-033000_MQTT Dash.jpg | width=250)
-![screenshot: setup magnet switch state widget](./screens/Screenshot_20190316-033015_MQTT Dash.jpg | width=250)

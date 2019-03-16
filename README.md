@@ -49,8 +49,8 @@ After having PlatformIO install the Firmware on the ESP32 you are ready to setup
 
 * Screenshots
 
-![screenshot: home view](screens/Screenshot_20190316-032649_MQTT Dash.jpg)
-![screenshot: adding server](screens/Screenshot_20190316-032847_MQTT Dash.jpg)
-![screenshot: server windgets](screens/Screenshot_20190316-032927_MQTT Dash.jpg)
-![screenshot: setup push button widget](screens/Screenshot_20190316-033000_MQTT Dash.jpg)
-![screenshot: setup magnet switch state widget](screens/Screenshot_20190316-033015_MQTT Dash.jpg)
+![screenshot: home view](./screens/Screenshot_20190316-032649_MQTT Dash.jpg | width=250)
+![screenshot: adding server](./screens/Screenshot_20190316-032847_MQTT Dash.jpg | width=250)
+![screenshot: server widgets](./screens/Screenshot_20190316-032927_MQTT Dash.jpg | width=250)
+![screenshot: setup push button widget](./screens/Screenshot_20190316-033000_MQTT Dash.jpg | width=250)
+![screenshot: setup magnet switch state widget](./screens/Screenshot_20190316-033015_MQTT Dash.jpg | width=250)

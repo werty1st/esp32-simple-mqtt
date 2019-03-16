@@ -2,6 +2,8 @@
 
 This is a simple mqtt Example App I created for experimenting with mqtt on ESP32 and Android [play.google.com](https://play.google.com/store/apps/details?id=net.routix.mqttdash)
 
+This Project is meant to be build with [PlatformIO](https://platformio.org/install/ide?install=atom)!
+
 ## Preview
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FOfncYHcuVw/0.jpg)](https://www.youtube.com/watch?v=FOfncYHcuVw)

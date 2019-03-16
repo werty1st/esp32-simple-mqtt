@@ -1,12 +1,14 @@
 # Intro
 
-This is a simple mqtt Example App I created for experimenting with mqtt on ESP32 and Android [play.google.com](https://play.google.com/store/apps/details?id=net.routix.mqttdash)
+This Project is meant to be build with https://platformio.org/install/ide?install=atom
 
-This Project is meant to be build with [PlatformIO](https://platformio.org/install/ide?install=atom)!
+If your on MacOS/Windows your may need to install EPS32 drivers.
+https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+
 
 ## Preview
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FOfncYHcuVw/0.jpg)](https://www.youtube.com/watch?v=FOfncYHcuVw)
+[![Video Preview](https://img.youtube.com/vi/FOfncYHcuVw/0.jpg)](https://www.youtube.com/watch?v=FOfncYHcuVw)
 
 
 ## Clone Repo
@@ -38,4 +40,17 @@ If you don't want to host your own mqtt server, you can use a free service at: [
 ```
 
 ## Compile and Run
-:)
+
+After having PlatformIO install the Firmware on the ESP32 you are ready to setup the Android App.
+
+* Install Android App https://play.google.com/store/apps/details?id=net.routix.mqttdash
+
+* Open MQTTDash and add your server
+
+* Screenshots
+
+![screenshot: home view](screens/Screenshot_20190316-032649_MQTT Dash.jpg)
+![screenshot: adding server](screens/Screenshot_20190316-032847_MQTT Dash.jpg)
+![screenshot: server windgets](screens/Screenshot_20190316-032927_MQTT Dash.jpg)
+![screenshot: setup push button widget](screens/Screenshot_20190316-033000_MQTT Dash.jpg)
+![screenshot: setup magnet switch state widget](screens/Screenshot_20190316-033015_MQTT Dash.jpg)

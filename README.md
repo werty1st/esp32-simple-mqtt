@@ -8,6 +8,11 @@ git clone https://github.com/werty1st/esp32-simple-mqtt.git
  cp src/dist-mySecrets.h src/mySecrets.h
  ```
 
+# Prepate mqtt Service
+
+If you don't want to host your own mqtt server, you can use a free service at: [customer.cloudmqtt.com](https://customer.cloudmqtt.com)
+
+
 # Add Credentials
 
 * modify src/mySecrets.h
